@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hi%2C+I'm+Zylen+Wang+%F0%9F%91%8B;Researcher+%7C+Lecturer+%7C+Builder" alt="Typing SVG" />
 </a>
 
-**Assistant Professor @ Suzhou University of Science and Technology**
+**Lecturer @ Suzhou University of Science and Technology**
 
 I study how organizations make strategic decisions in complex project environments,<br/>
 using game theory, network analysis, and optimization to turn messy real-world problems into actionable insights.
