@@ -46,7 +46,6 @@ Predictive Modeling               ██████████████░�
 | Project | What it does |
 |:--------|:-------------|
 | [**idea-scout**](https://github.com/zylen97/idea-scout) | Scans FT50/UTD24 top journals daily for transferable research ideas. Flutter web app + OpenAlex API |
-| [**revision-workflow**](https://github.com/zylen97/revision-workflow) | A LaTeX + Claude Code framework for academic paper revision — from decision letter to resubmission |
 | [**academic-site**](https://github.com/zylen97/academic-site) | Personal academic website built with Astro |
 | [**research-dashboard**](https://github.com/zylen97/research-dashboard) | Research project management dashboard for tracking multi-paper workflows |
 
