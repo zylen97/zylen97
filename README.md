@@ -1,19 +1,14 @@
-<div align="center">
+# Hi, I'm Zylen Wang
 
-<a href="https://zylen97.github.io/academic-site/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hi%2C+I'm+Zylen+Wang+%F0%9F%91%8B;Researcher+%7C+Lecturer+%7C+Builder" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Researcher+%7C+Lecturer+%7C+Builder)](https://zylen97.github.io/academic-site/)
 
 **Lecturer @ Suzhou University of Science and Technology**
 
-I study how organizations make strategic decisions in complex project environments,<br/>
-using game theory, network analysis, and optimization to turn messy real-world problems into actionable insights.
+I study how organizations make strategic decisions in complex project environments, using game theory, network analysis, and optimization to turn messy real-world problems into actionable insights.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org)
 [![Website](https://img.shields.io/badge/Academic_Site-000?style=flat&logo=astro&logoColor=white)](https://zylen97.github.io/academic-site/)
-
-</div>
 
 ---
 
@@ -29,8 +24,6 @@ Predictive Modeling               ██████████████░�
 
 ### Tech Stack
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
@@ -38,8 +31,6 @@ Predictive Modeling               ██████████████░�
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-
-</div>
 
 ### Featured Projects
 
@@ -52,17 +43,9 @@ Predictive Modeling               ██████████████░�
 
 ### GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zylen97&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylen97&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=zylen97&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zylen97&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 ---
 
-<div align="center">
-
 *Building tools that make academic research a little less painful.*
-
-</div>
