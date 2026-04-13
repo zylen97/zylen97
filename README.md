@@ -50,15 +50,6 @@ Predictive Modeling               ██████████████░�
 | [**twitter-bookmark-exporter**](https://github.com/zylen97/twitter-bookmark-exporter) | Export all Twitter/X bookmarks via CDP. Zero dependencies, no API keys |
 | [**academic-site**](https://github.com/zylen97/academic-site) | Personal academic website built with Astro |
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zylen97&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylen97&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
 ---
 
 <div align="center">
