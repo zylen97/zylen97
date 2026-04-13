@@ -45,9 +45,10 @@ Predictive Modeling               ██████████████░�
 
 | Project | What it does |
 |:--------|:-------------|
-| [**idea-scout**](https://github.com/zylen97/idea-scout) | Scans FT50/UTD24 top journals daily for transferable research ideas. Flutter web app + OpenAlex API |
+| [**claude-academic-os**](https://github.com/zylen97/claude-academic-os) | Academic operating system on Claude Code — 38 skills, 7 agents, full research lifecycle |
+| [**idea-scout**](https://github.com/zylen97/idea-scout) | Full-stack paper radar: 80-journal daily scan + LLM translation + email digest + Flutter PWA |
+| [**twitter-bookmark-exporter**](https://github.com/zylen97/twitter-bookmark-exporter) | Export all Twitter/X bookmarks via CDP. Zero dependencies, no API keys |
 | [**academic-site**](https://github.com/zylen97/academic-site) | Personal academic website built with Astro |
-| [**research-dashboard**](https://github.com/zylen97/research-dashboard) | Research project management dashboard for tracking multi-paper workflows |
 
 ### GitHub Stats
 
